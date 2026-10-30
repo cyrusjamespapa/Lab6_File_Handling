@@ -1,0 +1,16 @@
+{
+    "last_name": "Papa",
+    "student_id": "TUPM-26-1927",
+    "seed_digit": 7,
+    "target_operating_system": "iOS",
+    "target_behavior_class": 3,
+    "total_records": 700,
+    "records_matching_os": 146,
+    "invalid_records": 0,
+    "records_in_target_class": 32,
+    "average_battery_drain_mah_per_day": 1492.031,
+    "average_data_usage_mb_per_day": 828.094,
+    "exported_row_count": 32,
+    "count_verified": true,
+    "note": ""
+}
