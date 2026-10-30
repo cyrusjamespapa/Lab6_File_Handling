@@ -1,0 +1,5 @@
+Student: Papa
+Student ID: TUPM-26-1927
+Seed digit: 7
+ID sum: 27
+Verification Value: 115
